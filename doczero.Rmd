@@ -10,6 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 # Introdução
 
 editar o texto normalmente.
+Atualização teste
+
+## Testando a Clonagem do Repositório
 
 ```{r}
 A<-c(8,9,3,17)
