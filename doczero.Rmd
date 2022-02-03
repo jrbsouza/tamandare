@@ -1,0 +1,18 @@
+---
+title: "teste2"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introdução
+
+editar o texto normalmente.
+
+```{r}
+A<-c(8,9,3,17)
+b<-c(2,3,4,7)
+plot(A,b)
+```
